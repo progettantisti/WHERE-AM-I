@@ -1,4 +1,19 @@
 {
-  "name": "Where Am i",
-  
+  "name": "where_am_i",
+  "version": "1.0.0",
+  "description": "repository npm per progetto tec web",
+  "main": "nodeFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progettantisti/WHERE-AM-I.git"
+  },
+  "author": "michele gennari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/progettantisti/WHERE-AM-I/issues"
+  },
+  "homepage": "https://github.com/progettantisti/WHERE-AM-I#readme"
 }
