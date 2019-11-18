@@ -17,6 +17,7 @@ function getCurrentLocat(){
                 {
                    currPosition = new L.LatLng(position.coords.latitude, position.coords.longitude);
                 })
-            return currPosition;
+                console.log(currPosition);
+        return currPosition;
         }
 }
